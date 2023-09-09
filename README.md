@@ -1,1 +1,1 @@
-# GreenaEnergy_Hackathon23
+# GreenEnergy_Hackathon23
